@@ -30,15 +30,11 @@ class Scripted(object):
 │
 ├<b>📢 Channel : <a href='https://t.me/MoviedroidNew'>Moviedroid</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/Mahi2255/RenamerMDedit'>Click Here</a></b>
-│
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
 ├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
-│
-├<b>👨‍💻 Developer : <a href='https://t.me/MovieDroid'>@Pred∆tor</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
