@@ -24,19 +24,19 @@ class Scripted(object):
 
 
     ABOUT_TEXT = """
-╭────[🔅MD Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
-│
-├<b>🤖 Powered BY : <a href='https://t.me/Moviedroidnew'>Rename X2 Bot</a></b>
-│
-├<b>📢 Channel : <a href='https://t.me/MoviedroidNew'>Moviedroid</a></b>
-│
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
-│
-├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
-│
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
-│
-╰──────[Thanks 😊]───⍟"""
+____MD Rᴇɴᴀᴍᴇʀ Bᴏᴛ____
+
+<b>🤖 Powered BY : <a href='https://t.me/Moviedroidnew'>Rename X2 Bot</a></b>
+
+<b>📢 Channel : <a href='https://t.me/MoviedroidNew'>Moviedroid</a></b>
+
+<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
+
+<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
+
+<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+
+______Thanks 😊______"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
