@@ -33,7 +33,7 @@ async def start(bot, update):
           parse_mode="html",
           disable_web_page_preview=True,
           reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='⭕ CHANNEL ⭕', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
-                                                 InlineKeyboardButton(text='⭕ MOVIE RQSR ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
+                                                 InlineKeyboardButton(text='⭕ MOVIE GRP ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
                                                [ InlineKeyboardButton(text='JOIN US', url='https://t.me/Moviedroidnew'),                                                
                                                  InlineKeyboardButton(text='🔐 Cʟᴏꜱᴇ 🔐', callback_data='DM') ] ] ) )
 
